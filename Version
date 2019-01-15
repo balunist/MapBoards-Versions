@@ -1,7 +1,22 @@
 [
   {
-    "AddIn": "MapBoards Pro",
-    “Release Date”: “2/20/2018”,
-    “Version”: “2.00”
+    "login": "jvantuyl",
+    "id": 101,
+    "node_id": "MDQ6VXNlcjEwMQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/101?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jvantuyl",
+    "html_url": "https://github.com/jvantuyl",
+    "followers_url": "https://api.github.com/users/jvantuyl/followers",
+    "following_url": "https://api.github.com/users/jvantuyl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jvantuyl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jvantuyl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jvantuyl/subscriptions",
+    "organizations_url": "https://api.github.com/users/jvantuyl/orgs",
+    "repos_url": "https://api.github.com/users/jvantuyl/repos",
+    "events_url": "https://api.github.com/users/jvantuyl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jvantuyl/received_events",
+    "type": "User",
+    "site_admin": false
   }
 ]
