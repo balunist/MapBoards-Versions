@@ -1,6 +1,7 @@
 [
   {
     "Version": "1.27",
-    "Last Updated": "1/20/2019"
+    "Last Updated": "1/20/2019",
+    "Greeting": "Thank you for using MapBoards!  Be sure to stay up-to-date with maintenance releases or upgrade to Pro for enhanced DXF output and lock in for future enhancements."
   }
 ]
