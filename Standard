@@ -28,5 +28,11 @@
     "Version": "1.31",
     "Last Updated": "4/17/2019",
     "Greeting": "Thank you for using MapBoards!  Be sure to stay up-to-date with maintenance releases or upgrade to Pro for enhanced DXF output and lock in for future enhancements."
+  },  
+  {
+    "id": "7055850008078104945",
+    "Version": "1.32",
+    "Last Updated": "4/26/2019",
+    "Greeting": "Thank you for using MapBoards!  Be sure to stay up-to-date with maintenance releases or upgrade to Pro for enhanced DXF output and lock in for future enhancements."
   }
 ]
