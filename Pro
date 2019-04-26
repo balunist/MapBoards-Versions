@@ -34,5 +34,11 @@
     "Version": "2.05",
     "Last Updated": "4/17/2019",
     "Greeting": "Thank you for using MapBoards Pro!  Stay up to date and you will be rewarded with future enhancements."
+  },  
+  {
+    "id": "3399489440307590024",
+    "Version": "2.06",
+    "Last Updated": "4/26/2019",
+    "Greeting": "Thank you for using MapBoards Pro!  Try the context menu options new with this release."
   }
 ]
