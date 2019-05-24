@@ -37,8 +37,8 @@
   },  
   {
     "id": "3399489440307590024",
-    "Version": "2.06",
-    "Last Updated": "4/26/2019",
-    "Greeting": "Thank you for using MapBoards Pro!  Try the context menu options new with this release."
+    "Version": "2.07",
+    "Last Updated": "5/24/2019",
+    "Greeting": "This version supports model and browser tree selection.  Also, context menu launch.  Feedback welcome."
   }
 ]
