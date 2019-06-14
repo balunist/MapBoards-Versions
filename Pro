@@ -1,7 +1,7 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.08",
+    "Version":  "2.08",
     "Last Updated": "6/14/2019",
     "Greeting": "This version provides added size options for board and component labels.  Also there are fixes to DXF export and linked component handling.  Feedback welcome."
   }
