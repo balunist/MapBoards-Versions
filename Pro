@@ -4,7 +4,5 @@
     "Version": "2.08",
     "Last Updated": "6/14/2019",
     "Greeting": "This version provides added size options for board and component labels.  Also there are fixes to DXF export and linked component handling.  Feedback welcome.",
-    "Message": "This video highlights what is new in this version.  <b><a href=\"https://www.youtube.com/watch?v=0tocDMLSFpc\">MapBoards Pro</a></b>",
-    "Info": "0"
   }
 ]
