@@ -1,44 +1,10 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.00",
-    "Last Updated": "1/20/2019",
-    "Greeting": "Thank you for using MapBoards Pro!  Stay up to date and you will be rewarded with future enhancements."
-  },
-  {
-    "id": "3399489440307590024",
-    "Version": "2.01",
-    "Last Updated": "2/20/2019",
-    "Greeting": "Thank you for using MapBoards Pro!  Stay up to date and you will be rewarded with future enhancements."
-  },
-  {
-    "id": "3399489440307590024",
-    "Version": "2.02",
-    "Last Updated": "3/1/2019",
-    "Greeting": "Thank you for using MapBoards Pro!  Stay up to date and you will be rewarded with future enhancements."
-  },
-  {
-    "id": "3399489440307590024",
-    "Version": "2.03",
-    "Last Updated": "3/7/2019",
-    "Greeting": "Thank you for using MapBoards Pro!  Stay up to date and you will be rewarded with future enhancements."
-  },
-  {
-    "id": "3399489440307590024",
-    "Version": "2.04",
-    "Last Updated": "4/1/2019",
-    "Greeting": "Thank you for using MapBoards Pro!  Stay up to date and you will be rewarded with future enhancements."
-  },  
-  {
-    "id": "3399489440307590024",
-    "Version": "2.05",
-    "Last Updated": "4/17/2019",
-    "Greeting": "Thank you for using MapBoards Pro!  Stay up to date and you will be rewarded with future enhancements."
-  },  
-  {
-    "id": "3399489440307590024",
-    "Version": "2.07",
-    "Last Updated": "5/24/2019",
-    "Greeting": "This version supports model and browser tree selection.  Also, context menu launch.  Feedback welcome."
+    "Version": "2.08",
+    "Last Updated": "6/14/2019",
+    "Greeting": "This version provides added size options for board and component labels.  Also there are fixes to DXF export and linked component handling.  Feedback welcome."
+    "Message": "This video highlights what is new in this version.  <b><a href=\"https://www.youtube.com/watch?v=0tocDMLSFpc\">MapBoards Pro</a></b>",
+    "Info": "0"
   }
 ]
