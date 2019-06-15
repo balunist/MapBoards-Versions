@@ -5,9 +5,9 @@
     "Last Updated": "6/14/2019",
     "Greeting": "Thank you for using MapBoards!",
     "Message": ["Consider an upgrade to the Pro version.  A $10 rebate for a Pro purchase is now available by emailing",
-                support.  A PayPal refund will be issued once both Standard and Pro purchases have been confirmed.",
-                <p>How is MapBoards Pro different you ask?   This video highlights unique in the Pro version.",
-                <b><a href=\"https://www.youtube.com/watch?v=0tocDMLSFpc\">MapBoards Pro</a></b></p>"],
+                "support.  A PayPal refund will be issued once both Standard and Pro purchases have been confirmed.",
+                "<p>How is MapBoards Pro different you ask?   This video highlights unique in the Pro version.",
+                "<b><a href=\"https://www.youtube.com/watch?v=0tocDMLSFpc\">MapBoards Pro</a></b></p>"],
     "Info": "1"
   }
 ]
