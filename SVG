@@ -3,7 +3,7 @@
     "id": "3399489440307590024",
     "Version": "0.01",
     "Last Updated": "6/14/2019",
-    "Greeting": "This version a beta version.  It provides SVG export compatible with Deepnest.  Feedback welcome.",
+    "Greeting": "This version is a beta version.  It provides SVG export which is compatible with Deepnest.  Feedback is welcome.",
     "Message": "Deepnest is an open source software for nesting.  <b><a href=\"https://deepnest.io\">Download</a></b>",
     "Info": "1"
   }
