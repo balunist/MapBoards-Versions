@@ -1,8 +1,8 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.08",
-    "Last Updated": "6/14/2019",
+    "Version": "2.09",
+    "Last Updated": "7/4/2019",
     "Greeting": "Version 2.09 provides a fix for mapping and label sizing.  There is a new \"Export to SVG\" option available in the context menu.  Feedback welcome.<p>This video highlights what is new in this version.  <b><a href=\"https://www.youtube.com/watch?v=n1OrR2V3xKM\">MapBoards Pro</a></b>",
     "Message": "Version 2.09 provides a fix for mapping and label sizing.  There is a new \"Export to SVG\" option available in the context menu.  Feedback welcome.<p>This video highlights what is new in this version.  <b><a href=\"https://www.youtube.com/watch?v=n1OrR2V3xKM\">MapBoards Pro</a></b>",
     "Info": "1"
