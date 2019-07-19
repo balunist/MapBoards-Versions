@@ -1,10 +1,10 @@
 [
   {
     "id": "7055850008078104945",
-    "Version": "1.35",
-    "Last Updated": "7/4/2019",
+    "Version": "1.36",
+    "Last Updated": "7/19/2019",
     "Greeting": "Thank you for using MapBoards!",
-    "Message": "Consider an upgrade to the Pro version.<p>This video highlights what is new in the Pro version.  <b><a href=\"https://www.youtube.com/watch?v=n1OrR2V3xKM\">MapBoards Pro</a></b>",
-    "Info": "0"
+    "Message": "Consider an upgrade to the Pro version.&nbsp;&nbsp;The latest version support font selection.",
+    "Info": "1"
   }
 ]

@@ -1,10 +1,10 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.09",
-    "Last Updated": "7/4/2019",
-    "Greeting": "Version 2.09 provides a fix for mapping and label sizing.&nbsp;&nbsp;There is a new \"Export to SVG\" option available in the context menu.&nbsp;&nbsp;Feedback welcome.<p>This video highlights what is new in this version.  <b><a href=\"https://www.youtube.com/watch?v=n1OrR2V3xKM\">MapBoards Pro</a></b>",
-    "Message": "Version 2.09 provides a fix for mapping and label sizing.&nbsp;&nbsp;There is a new \"Export to SVG\" option available in the context menu.&nbsp;&nbsp;Feedback welcome.<p>This video highlights what is new in this version.  <b><a href=\"https://www.youtube.com/watch?v=n1OrR2V3xKM\">MapBoards Pro</a></b>",
-    "Info": "0"
+    "Version": "2.10",
+    "Last Updated": "7/19/2019",
+    "Greeting": "Version 2.10 added font selection for labels and SVG output support for all curve types<p>Font selection needs to be enabled one time only.  This video show you how.  <b><a href=\"https://youtu.be/GHrwCRwPCvs\">MapBoards Pro</a></b>",
+    "Message": "Version 2.10 added font selection for labels and SVG output support for all curve types<p>Font selection needs to be enabled one time only.  This video show you how.  <b><a href=\"https://youtu.be/GHrwCRwPCvs\">MapBoards Pro</a></b>",
+    "Info": "1"
   }
 ]
