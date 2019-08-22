@@ -1,9 +1,9 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.11",
+    "Version": "2.12",
     "Last Updated": "7/19/2019",
-    "Greeting": "Version 2.11 provides fixes and performance improvement for SVG output.",
+    "Greeting": "Version 2.12 provides fixes and performance improvement for Mapping.",
     "Message": "Version 2.10 added font selection for labels and SVG output support for all curve types<p>Font selection needs to be enabled one time only.  This video show you how.  <b><a href=\"https://youtu.be/GHrwCRwPCvs\">MapBoards Pro</a></b>",
     "Info": "0"
   }
