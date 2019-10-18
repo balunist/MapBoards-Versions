@@ -1,9 +1,9 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.14",
+    "Version": "2.15",
     "Last Updated": "9/29/2019",
-    "Greeting": "Version 2.14 required update for Fusion 360 September release.",
+    "Greeting": "Version 2.15 includes fixes for SVG export and component selection.",
     "Message": "Check out the new app available on the app store.  <b><a href=\"https://apps.autodesk.com/FUSION/en/Detail/Index?id=674639313154257858&os=Mac&appLang=en\">Save As SVG</a></b>",
     "Info": "0"
   }
