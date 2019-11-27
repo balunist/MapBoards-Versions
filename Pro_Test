@@ -1,10 +1,10 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.12",
-    "Last Updated": "7/19/2019",
-    "Greeting": "Version 2.12 provides fixes and performance improvement for Mapping.",
+    "Version": "2.17",
+    "Last Updated": "11/26/2019",
+    "Greeting": "Version 2.17 Adds SVG output option to Map Type and performance improvements.",
     "Message": "Check out the new app available on the app store.  <b><a href=\"https://apps.autodesk.com/FUSION/en/Detail/Index?id=674639313154257858&os=Mac&appLang=en\">Save As SVG</a></b>",
-    "Info": "1"
+    "Info": "0"
   }
 ]
