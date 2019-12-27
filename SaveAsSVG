@@ -1,9 +1,9 @@
 [
   {
     "id": "674639313154257858",
-    "Version": "1.06",
-    "Last Updated": "12/6/2019",
-    "Greeting": "This update corrected SVG output scaling.  Feedback is welcome.",
+    "Version": "1.07",
+    "Last Updated": "12/27/2019",
+    "Greeting": "This updates scale and orientation.  Feedback is welcome.",
     "Message": "Lots in store with coming updates.",
     "Info": "0"
   }
