@@ -1,9 +1,9 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.18",
-    "Last Updated": "12/10/2019",
-    "Greeting": "Version 2.18 - fixes for DXF and SVG export, mapping with Y up orientation and SVG output scale is now correct",
+    "Version": "2.19",
+    "Last Updated": "01/21/2020",
+    "Greeting": "Version 2.19 - performance improvements and new options for both DXF and SVG output",
     "Message": "Check out the new app available on the app store.  <b><a href=\"https://apps.autodesk.com/FUSION/en/Detail/Index?id=674639313154257858&os=Mac&appLang=en\">Save As SVG</a></b>",
     "Info": "0"
   }
