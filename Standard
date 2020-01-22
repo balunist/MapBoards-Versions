@@ -1,9 +1,9 @@
 [
   {
     "id": "7055850008078104945",
-    "Version": "1.44",
-    "Last Updated": "12/16/2019",
-    "Greeting": "Version 1.44 - Thanks for using MapBoards!",
+    "Version": "1.45",
+    "Last Updated": "01/22/2020",
+    "Greeting": "Version 1.45 - Fix for linked components.  Thanks for using MapBoards!",
     "Message": "Check out the new app available on the app store.  <b><a href=\"https://apps.autodesk.com/FUSION/en/Detail/Index?id=674639313154257858&os=Mac&appLang=en\">Save As SVG</a></b>",
     "Info": "0"
   }
