@@ -1,10 +1,10 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.19",
-    "Last Updated": "01/21/2020",
-    "Greeting": "Version 2.19 - performance improvements and new options for both DXF and SVG output",
-    "Message": "Check out the new app available on the app store.  <b><a href=\"https://apps.autodesk.com/FUSION/en/Detail/Index?id=674639313154257858&os=Mac&appLang=en\">Save As SVG</a></b>",
-    "Info": "0"
+    "Version": "2.20",
+    "Last Updated": "02/06/2020",
+    "Greeting": "Version 2.20 - Updates for DXF and SVG output and new option for SVG line thickness",
+    "Message": "A functional overview.  <b><a href=\"https://www.youtube.com/watch?v=fIeSzUXJdD8">MapBoards Pro</a></b>",
+    "Info": "1"
   }
 ]
