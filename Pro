@@ -1,10 +1,10 @@
 [
   {
     "id": "3399489440307590024",
-    "Version": "2.21",
-    "Last Updated": "02/20/2020",
-    "Greeting": "Version 2.21 - fix for SVG with kerf & timeline",
-    "Message": "View video for a functional overview <b><a href=\"https://www.youtube.com/watch?v=fIeSzUXJdD8\">MapBoards Pro</a></b>",
-    "Info": "0"
+    "Version": "2.23",
+    "Last Updated": "03/16/2020",
+    "Greeting": "Version 2.23 -  Selection enhancements: - displays selection table and provides replication count",
+    "Message": "View video describing this update. <b><a href=\"https://www.youtube.com/watch?v=t3qS6B-73h8\">New Selection Feature</a></b>",
+    "Info": "1"
   }
 ]
