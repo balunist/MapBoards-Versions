@@ -5,6 +5,6 @@
     "Last Updated": "03/16/2020",
     "Greeting": "Version 2.23 -  Selection enhancements: - displays selection table and provides replication count",
     "Message": "View video describing this update. <b><a href=\"https://www.youtube.com/watch?v=t3qS6B-73h8\">New Selection Feature</a></b>",
-    "Info": "1"
+    "Info": "0"
   }
 ]
