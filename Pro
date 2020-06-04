@@ -1,6 +1,7 @@
 [
   {
     "id": "3399489440307590024",
+    "MapBoards Pro",
     "Version": "2.27",
     "Last Updated": "05/27/2020",
     "Greeting": "Thanks for using <b>MapBoards Pro!</b>",
