@@ -2,8 +2,8 @@
   {
     "id": "3399489440307590024",
     "Product": "MapBoards Pro",
-    "Version": "2.37",
-    "Last Updated": "10/16/2020",
+    "Version": "2.38",
+    "Last Updated": "11/05/2020",
     "Greeting": "Thanks for using <b>MapBoards Pro!</b>",
     "Message": "View video describing this update. <b><a href=\"https://www.youtube.com/watch?v=t3qS6B-73h8\">New Selection Feature</a></b>",
     "Info": "0"
